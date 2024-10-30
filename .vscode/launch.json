@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "showDevDebugOutput": "parsed",
+            "cwd": "${workspaceRoot}",
+            "executable": "build/${workspaceRootFolderName}.elf",
+            "name": "Debug STM32",
+            "request": "launch",
+            "type": "cortex-debug",
+            "servertype": "openocd",
+            "preLaunchTask": "CMake: build",
+            "configFiles": [
+                "openocd.cfg"
+            ],
+            "openOCDPreConfigLaunchCommands": [
+                "adapter_khz 1800"
+            ],
+            "runToMain": true,
+            "svdFile": "${workspaceRoot}/path/to/your.svd"
+        }
+    ]
+}
