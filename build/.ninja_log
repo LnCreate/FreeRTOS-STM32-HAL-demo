@@ -37,3 +37,8 @@
 29	571	7525190531804717	CMakeFiles/FreeRTOS_demo.elf.dir/User/Src/user_tasks.c.obj	7a60627af6403965
 27	553	7525195015786502	CMakeFiles/FreeRTOS_demo.elf.dir/User/Src/user_usart.c.obj	572deb94f789f76a
 555	1404	7525195021061466	FreeRTOS_demo.elf	858510d7e05ef10a
+26	671	7525282913047249	CMakeFiles/FreeRTOS_demo.elf.dir/User/Src/user_tasks.c.obj	7a60627af6403965
+65	675	7525282913437427	CMakeFiles/FreeRTOS_demo.elf.dir/User/Src/user_usart.c.obj	572deb94f789f76a
+676	1483	7525282919541538	FreeRTOS_demo.elf	858510d7e05ef10a
+21	522	7525285254282362	CMakeFiles/FreeRTOS_demo.elf.dir/User/Src/user_usart.c.obj	572deb94f789f76a
+524	1315	7525285259311004	FreeRTOS_demo.elf	858510d7e05ef10a
